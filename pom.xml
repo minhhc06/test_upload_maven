@@ -1,5 +1,5 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.nyholmniklas</groupId>
@@ -34,7 +34,7 @@
     <description>This is a sample library for a tutorial about
         publishing to Maven Central
     </description>
-    <url>http://github.com/nyholmniklas/arithmetic</url>
+    <url>https://github.com/minhhc06/test_upload_maven</url>
 
     <licenses>
         <license>
@@ -112,10 +112,10 @@
 
     <developers>
         <developer>
-            <name>Niklas Nyholm</name>
-            <email>nyholmniklas@gmail.com</email>
-            <organization>com.github.nyholmniklas</organization>
-            <organizationUrl>http://github.com/nyholmniklas/</organizationUrl>
+            <name>Minh Huynh</name>
+            <email>minhhc06@gmail.com</email>
+            <organization>com.github.minhhc06</organization>
+            <organizationUrl>https://github.com/minhhc06</organizationUrl>
         </developer>
     </developers>
 
